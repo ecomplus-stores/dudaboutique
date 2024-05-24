@@ -38,13 +38,13 @@
     </url>
   
     <url>
-      <loc>https://dudaboutique.netlify.app/pages/privacidade</loc>
+      <loc>https://dudaboutique.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://dudaboutique.netlify.app/pages/pagamentos</loc>
+      <loc>https://dudaboutique.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
