@@ -38,6 +38,18 @@
     </url>
   
     <url>
+      <loc>https://dudaboutique.netlify.app/bolsas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://dudaboutique.netlify.app/grande</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://dudaboutique.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
